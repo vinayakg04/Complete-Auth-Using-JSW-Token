@@ -1,6 +1,6 @@
 # Complete-Auth-Using-JSW-Token
 
-**Project Title:** Authenticating Users Using JWT Tokens
+**Project Title:** Authenticating Users Using JWT Token
 
 **Project Description:**
 
